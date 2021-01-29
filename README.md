@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am always serious, 😄😄😄
 
-[![Twitter: iamkrishnaa1](https://img.shields.io/twitter/follow/iamkrishnaa1?style=social)](https://twitter.com/iamkrishnaa1)
+[![Twitter: iamkrishnaa_](https://img.shields.io/twitter/follow/iamkrishnaa1?style=social)](https://twitter.com/iamkrishnaa_)
 [![Linkedin: iamkrishnaa](https://img.shields.io/badge/-iamkrishnaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamkrishnaa/)](https://www.linkedin.com/in/iamkrishnaa/)
 [![GitHub iamkrishnaa](https://img.shields.io/github/followers/iamkrishnaa?label=follow&style=social)](https://github.com/iamkrishnaa)
 [![Instagram: krishnaa_adhikaree](https://img.shields.io/badge/instagram-krrishna_adhikaree-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/krrishna_adhikaree/)](https://www.instagram.com/krrishna_adhikaree/)
