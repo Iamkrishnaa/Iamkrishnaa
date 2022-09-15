@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Teispace**
 
-- 🌱 I’m currently learning **Node, Express, Blockchain**
+- 🌱 I’m currently learning **Spring Boot, Angular, Node, Express, Blockchain**
 
 - 👯 I’m looking to collaborate on **Teispace**
 
